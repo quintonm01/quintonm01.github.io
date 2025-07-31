@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to my GitHib page! Here, you can find a list of some of my many projects I have worked on in the past, along with other information like work and educational experience, my certifications, and what I'm studying and or working on at the moment.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Check out my Projects page for some projects I've worked on in the past (I am working to make the list more comprehensive as my documentation of these projects improves with time), my Education and Certifications pages for an idea of some knowledge I've obtained from professional organizations, and my Work Experience page for a little better idea of what I've done in the past that may or may not be directly cyber related.
 
 A data-driven personal websit
 ======
